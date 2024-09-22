@@ -315,10 +315,10 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1940230010,8add2ad55482da34767ffbb711e2daca,3,produce,4,アイドルロード,아이돌 로드,市川 雛菜,이치카와 히나나
 1940240010,09b4279c34f7b87e0f4d6c9395806719,2,produce,4,アイドルロード,아이돌 로드,七草 にちか,나나쿠사 니치카
 1940250010,18ae2ddca621a75c0e02961f31ba35f7,2,produce,4,アイドルロード,아이돌 로드,緋田 美琴,아케타 미코토
-2010050010,094af45e9caa28e17a298fc16f5e5d3a,1,support,9,アイドルのたまご,햇병아리 아이돌,田中 摩美々,타나카 마미미
-2010060010,4843ae6c1660ef777d2edfe175c16a96,1,support,9,アイドルのたまご,햇병아리 아이돌,白瀬 咲耶,시라세 사쿠야
-2010130010,660b89ba82dcf8e0cc34ac36efc3d52d,1,support,9,アイドルのたまご,햇병아리 아이돌,有栖川 夏葉,아리스가와 나츠하
-2010150010,7824e047252464fc689649ce63729708,1,support,9,アイドルのたまご,햇병아리 아이돌,大崎 甜花,오사키 텐카
+2010050010,094af45e9caa28e17a298fc16f5e5d3a,9,support,1,アイドルのたまご,햇병아리 아이돌,田中 摩美々,타나카 마미미
+2010060010,4843ae6c1660ef777d2edfe175c16a96,9,support,1,アイドルのたまご,햇병아리 아이돌,白瀬 咲耶,시라세 사쿠야
+2010130010,660b89ba82dcf8e0cc34ac36efc3d52d,9,support,1,アイドルのたまご,햇병아리 아이돌,有栖川 夏葉,아리스가와 나츠하
+2010150010,7824e047252464fc689649ce63729708,9,support,1,アイドルのたまご,햇병아리 아이돌,大崎 甜花,오사키 텐카
 2020010010,7bf24acfd735768bdf3cd9bf3ff74920,8,support,2,２８３プロのヒナ,283프로의 병아리,櫻木 真乃,사쿠라기 마노
 2020020010,b6ad64d7f4a7be9e45ade15c54f68678,8,support,2,２８３プロのヒナ,283프로의 병아리,風野 灯織,카자노 히오리
 2020030010,f14e29dd39b2206fa729ec2696138119,8,support,2,２８３プロのヒナ,283프로의 병아리,八宮 めぐる,하치미야 메구루
@@ -935,8 +935,8 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040180110,3f0184a21f761cc948f610609add1b6b,1,produce,4,ア・冬優子イズム,어 후유코이즘,黛 冬優子,마유즈미 후유코
 2040100120,15838f3c2908ca3508558bec006c79dd,1,support,4,ちょこほりっく♡注意報,쵸코 홀릭♡주의보,園田 智代子,소노다 치요코
 2040200100,cf419d5b401427c5d04b30948700c45e,1,support,4,ジューンブライド2024,준 브라이드 2024,浅倉 透,아사쿠라 토오루
-2030170060,e38949fb33bd879da062994719cce3e1,1,support,3,Live Fun!!,Live Fun!!,芹沢 あさひ,세리자와 아사히
-2030200050,e7f5d18fdd913dad80a00c89ad3c9123,1,support,3,Live Fun!!,Live Fun!!,浅倉 透,아사쿠라 토오루
+2030170060,e38949fb33bd879da062994719cce3e1,2,support,3,Live Fun!!,Live Fun!!,芹沢 あさひ,세리자와 아사히
+2030200050,e7f5d18fdd913dad80a00c89ad3c9123,2,support,3,Live Fun!!,Live Fun!!,浅倉 透,아사쿠라 토오루
 1040240070,1b370ae6e3763df4f9a5d83b50efcc4a,1,produce,4,伝えテ niiid U,전해줘 niiid U,七草 にちか,나나쿠사 니치카
 1048030010,6918485562d4d33a16c9d5b456c2cda1,1,produce,4,In yellow,In yellow,MEMちょ,MEM쵸
 2030210070,90ad59b1fb1c5ed414fbe04c4c3e7a80,1,support,3,露光,노광(露光),樋口 円香,히구치 마도카

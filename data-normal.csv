@@ -1021,7 +1021,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040270030,5455e9f31ace2456dacf7ac14aa9f2d4,1,support,4,聖なれ,성스러워라,鈴木 羽那,스즈키 하나
 2040910020,0cce1734209d16677e386f80ab4e9b1f,1,support,4,ケーキブレイク,케이크 브레이크,七草 はづき,나나쿠사 하즈키
 2030170090,a8b9d7599bf364c9842f4ef162fc36e7,1,support,3,うちとあたしのひとつの結論,나와 나의 하나의 결론,芹沢 あさひ,세리자와 아사히
-2030190070,d024fcfa71e0df83e185a42ed3e8747e,1,support,3,Q.E.D. 証明終了,Q.E.D.  증명 완료,和泉 愛依,이즈미 메이
+2030190070,d024fcfa71e0df83e185a42ed3e8747e,1,support,3,Q.E.D. 証明終了,Q.E.D. 증명 완료,和泉 愛依,이즈미 메이
 2040190100,ac802e9f7e1067e4a30ab342d1c21639,1,support,4,Future Designer,Future Designer,和泉 愛依,이즈미 메이
 1040280040,095aed83d9121990f310cd01d562d873,1,produce,4,流星パレット,유성 팔레트,郁田 はるき,이쿠타 하루키
 2030210090,a6cc4f59d2c7cdb3527acda5e0c127c4,1,support,3,アイマスEXPO,아이마스 EXPO,樋口 円香,히구치 마도카
@@ -1097,3 +1097,6 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040200090,149564b6a7860f304da870fb6acddac0,1,produce,4,テープエンドの行き先,테이프 엔드의 행선지,浅倉 透,아사쿠라 토오루
 2040080160,e6a4542849166c6ce7fc8568d1782f64,1,support,4,SCHOOL/BIZARRE,SCHOOL/BIZARRE,幽谷 霧子,유코쿠 키리코
 2040230090,f7eae59fc43430ed28f312759eaa75f0,1,support,4,sa!l,sa!l,市川 雛菜,이치카와 히나나
+1040140130,f341d7af541d264b04d1c7255def7abf,1,produce,4,挑戦アトラクティブ,도전 어트랙티브,大崎 甘奈,오사키 아마나
+2030160120,5a1bd4d6b2fa53afd7b625e348e3b672,1,support,3,誘わないで、陽光,"유혹하지 마, 햇살",桑山 千雪,쿠와야마 치유키
+2040250120,0910e82e3a6d4f81f98da6a2ad57218b,1,support,4,DIGEST,DIGEST,緋田 美琴,아케타 미코토

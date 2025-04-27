@@ -22,7 +22,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [24.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -37,7 +37,7 @@ jobs:
     - run: npm run update
     
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v3.1.0
+      uses: actions/upload-artifact@v4
       with:
         name: Generated images and data
         path: |
@@ -49,7 +49,7 @@ jobs:
       if: ${{ github.event_name == 'push' }}
       # You may pin to the exact commit or the version.
       # uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
-      uses: stefanzweifel/git-auto-commit-action@v4.14.1
+      uses: stefanzweifel/git-auto-commit-action@v5.2.0
       with:
         # Commit message
         commit_message: Auto commit data-normal.csv

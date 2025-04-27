@@ -72,6 +72,11 @@
                 version="1.1"
             >
                 <defs>
+                    <linearGradient id="ur" x1="10%" x2="90%" y1="0%" y2="100%">
+                        <stop offset="20%" stop-color="#ff9c30" />
+                        <stop offset="50%" stop-color="#c164f7" />
+                        <stop offset="80%" stop-color="#1e9ef6" />
+                    </linearGradient>
                     <linearGradient id="ssr" x1="10%" x2="90%" y1="0%" y2="100%">
                         <stop offset="20%" stop-color="#ff9c30" />
                         <stop offset="50%" stop-color="#c164f7" />
@@ -88,6 +93,11 @@
                     <linearGradient id="n" x1="10%" x2="90%" y1="0%" y2="100%">
                         <stop offset="0%" stop-color="#aea28e" />
                         <stop offset="100%" stop-color="#625a4c" />
+                    </linearGradient>
+                    <linearGradient id="outline-ur" x1="10%" x2="90%" y1="0%" y2="100%">
+                        <stop offset="20%" stop-color="#ffe372" />
+                        <stop offset="50%" stop-color="#f387e3" />
+                        <stop offset="80%" stop-color="#6bd6fe" />
                     </linearGradient>
                     <linearGradient id="outline-ssr" x1="10%" x2="90%" y1="0%" y2="100%">
                         <stop offset="20%" stop-color="#ffe372" />
@@ -166,7 +176,7 @@
                 Press F12 to open Console, and type
                 <code>SetText("{Card Name}", "{Idol Name}", "{Rarity}");</code>
             </p>
-            <p>Rarity: ssr, sr, r, n</p>
+            <p>Rarity: ur, ssr, sr, r, n</p>
         </div>
         <script>
             const $ = document.querySelectorAll.bind(document);

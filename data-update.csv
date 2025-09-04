@@ -811,7 +811,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030160070,d1fe8fb42fb4072e695484400ec91f90,1,support,3,世界はこの、腕の中,"세계는 이, 품 안에",桑山 千雪,쿠와야마 치유키
 2040150130,d891598693225808dacef78dc896a224,1,support,4,Pop-Up！My ♡,Pop-Up! My ♡,大崎 甜花,오사키 텐카
 1040160100,23fa719399c51ea108241508f09a042f,1,produce,4,剥がされて、虚ろ,"벗겨지고, 텅 빈",桑山 千雪,쿠와야마 치유키
-2030210040,31aac42e011aa4a987fb4465408a523e,1,support,3,無色,무색,樋口 円香,히구치 마도카
+2030210040,31aac42e011aa4a987fb4465408a523e,1,support,3,無色,무색(無色),樋口 円香,히구치 마도카
 1040120100,4e4a7e0f6df7e19c274dd04746c37f4a,1,produce,4,染光満月,염광만월,杜野 凛世,모리노 린제
 1040200060,1a46eb665220ae85ed4d7a23884681e4,1,produce,4,あてもなく、風,"정처 없는, 바람",浅倉 透,아사쿠라 토오루
 1040040090,e6ba91e55ebc359c73cc3db95c640a12,1,produce,4,ふりそそぐもの,내리쏟아지는 것,月岡 恋鐘,츠키오카 코가네
@@ -1223,3 +1223,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040260070,5db7eac72c0a9514ba0745a80e8e7ca1,1,produce,4,NoNoNo:Bunny,NoNoNo:Bunny,斑鳩 ルカ,이카루가 루카
 2030220080,af76f54765a41fffdc9a18101c41fb6d,1,support,3,ひんやり捜索隊,시원한 수색대,福丸 小糸,후쿠마루 코이토
 2040140200,2c5429aca6a60dec78cec7efa2d17385,1,support,4,傍に……,곁에……,大崎 甘奈,오사키 아마나
+1040130130,c5c613b9f4a796e03f414fdb5e4bfd22,1,produce,4,summer break,summer break,有栖川 夏葉,아리스가와 나츠하
+2030260040,4cd02691aef04cc4172c9d4d21853c76,1,support,3,不意,불의(不意),斑鳩 ルカ,이카루가 루카
+2040180130,6c047f31c9473f44409e1565e83b00c4,1,support,4,きづけばまほろば,알고 보니 비경,黛 冬優子,마유즈미 후유코
+2040260090,4acd56d9025112558d68c0cac770cf07,1,support,4,サマーアイドル2025,서머 아이돌 2025,斑鳩 ルカ,이카루가 루카

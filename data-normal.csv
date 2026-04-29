@@ -118,7 +118,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1030230020,bc7ffbfda6ab72bb78be5342625f6d80,2,produce,3,Makeup♡Box,Makeup♡Box,市川 雛菜,이치카와 히나나
 1030240010,627afadb3034dca55fdfccced6075439,2,produce,3,一億回めくらいの、その夏,"일억 번째 정도의, 그 여름",七草 にちか,나나쿠사 니치카
 1030250010,7f5add8c673347fa86483b1b065b00c8,1,produce,3,SEASON,SEASON,緋田 美琴,아케타 미코토
-1040010010,1209a8ef1f8e6a454b7e8df52952bc7f,8,produce,4,ほわっとスマイル,부드러운 스마일,櫻木 真乃,사쿠라기 마노
+1040010010,1209a8ef1f8e6a454b7e8df52952bc7f,8,produce,4,ほわっとスマイル,포근한 스마일,櫻木 真乃,사쿠라기 마노
 1040010020,7f2b24447ba0de59a31bd000b8155529,5,produce,4,ハ♡トフェルトゥギフト,하♡트 펠트 기프트,櫻木 真乃,사쿠라기 마노
 1040010030,c0f9c2150837b2024c617c47ee7327ff,3,produce,4,はじけてスマイル,튀어오르는 스마일,櫻木 真乃,사쿠라기 마노
 1040010040,61e066bde039f64b3ee8d644094ee63e,3,produce,4,深染め、いろみぐさ,"짙은 물들임, 단풍",櫻木 真乃,사쿠라기 마노
@@ -1351,3 +1351,6 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040180170,b99472b143f970e2dbc4a238acc4276f,1,support,4,おっきくならなくちゃ,크게 자라야 해,黛 冬優子,마유즈미 후유코
 2040180180,b9421c6dc82524078554dcd00679214c,1,support,4,XXX= S/N-GUL4R1TY,XXX= S/N-GUL4R1TY,黛 冬優子,마유즈미 후유코
 2040190170,b426fcf46c735dd428b308e7ca2ab41a,1,support,4,XXX= S/N-GUL4R1TY,XXX= S/N-GUL4R1TY,和泉 愛依,이즈미 메이
+1050080010,36bf992e913bbdc23d1e11216259b27a,1,produce,5,知・知・識・識,지・지・식・식,幽谷 霧子,유코쿠 키리코
+2030210100,f669fa8c46f219714aa830e8644db96b,1,support,3,露色,노색(露色),樋口 円香,히구치 마도카
+2050170010,66e20374d45e1a153695290c4613a9f1,1,support,5,くっつく、くっつかない,"붙다, 붙지 않다",芹沢 あさひ,세리자와 아사히
